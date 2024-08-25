@@ -1,5 +1,7 @@
 # PyQT5-Codebox
 
+![CodeBox Vorschau](./codebox.png)
+
 **CodeBox** ist eine einfache und leicht zu integrierende Komponente für PyQt5, die es ermöglicht, Code-Snippets in einer grafischen Benutzeroberfläche anzuzeigen. Mit einer integrierten Copy-to-Clipboard-Funktion und Syntax-Highlighting für Python-Code eignet sich CodeBox ideal für Entwickler-Tools und Code-Präsentationen.
 
 ## Funktionen
